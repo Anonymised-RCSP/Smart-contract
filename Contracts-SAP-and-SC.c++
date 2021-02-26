@@ -1,6 +1,3 @@
-
-// Author: Aydin Abadi. The code is under MIT licence. 
-
 pragma solidity >=0.4.22 <0.5.0;
 
 contract RCSP{
